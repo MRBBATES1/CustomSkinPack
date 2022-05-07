@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "MRBBATES1 Tutorial Skin Pack",
+        "uuid": "096f9112-8b2e-41dd-ae56-cb376dfc18eb",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "c9d5ebe4-6af2-41a6-ade6-871a4e91a0a9",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

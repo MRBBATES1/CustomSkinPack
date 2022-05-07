@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "Iskall85",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iskall85.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Example",
+  "localization_name": "Example"
+}
